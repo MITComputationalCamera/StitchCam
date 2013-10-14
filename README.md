@@ -13,12 +13,12 @@ As always, you will be adding code into a ready-made skeleton above. This involv
 # Desired Output #
 When you've completed the app, you will run it, take 2 pictures (with overlapping images and common features), and examine the output in your phone's DCIM folder. Again, you should be using a file explorer to do this so you can see the files as soon as they are created and also see the filenames.
 
-Once the images have saved (the take picture button should re-enable after the 2nd time you press it), you should 4 output images similar to the below:
+Once the images have saved (the take picture button should re-enable after the 2nd time you press it), you should get 4 output images similar to the ones below:
 
 1. First Image you took ("ImageOne_Original"): [Link](http://i.imgur.com/lpODinZ)
 2. First and Second Image you took with Feature Matching algorithm ("Feature_match"): [Link](http://i.imgur.com/h9eYPs0)
 3. First Image Warped as if it were to be matched up on the second image ("Warped"): [Link](http://i.imgur.com/I7wN7tm)
-4. Second Image containing the Warped First Image's red outline ("ImageTwo_with_WarpedImageOne"): [Imgur](http://i.imgur.com/X7mHHGn)
+4. Second Image containing the Warped First Image's red outline ("ImageTwo_with_WarpedImageOne"): [Link](http://i.imgur.com/X7mHHGn)
 
 
 
