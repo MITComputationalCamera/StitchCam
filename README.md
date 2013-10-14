@@ -7,6 +7,7 @@ Uses OpenCV to find where one image may be aligned in another image (and shows w
 You will create an app that, upon taking two overlapping images, figures out where the first image overlaps the second using Features2D/Homographies. This technique is used, in part, by
 panorama apps to identify features between two overlapping images that are the same, allowing the device to combine and stitch together the image intelligently.
 
+Please use this link for reference! http://docs.opencv.org/doc/tutorials/features2d/feature_homography/feature_homography.html#feature-homography
 
 As always, you will be adding code into a ready-made skeleton above. This involves OpenCV so keep in mind you will need to make sure all your settings are correct and that the libary has benen added correctly (Right Click Project>Properties>Android>Add the OpenCV Library Properly)
 
